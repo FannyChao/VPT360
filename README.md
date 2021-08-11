@@ -12,7 +12,7 @@ Virtual Reality (VR) multimedia technology has dramatically advanced in recent y
 
 ## Citing
 ```
-@INPROCEEDINGS{9301766,
+@INPROCEEDINGS{VPT360,
   author={F. -Y. {Chao} and C. {Ozcinar} and A. {Smolic}},
   booktitle={IEEE 23nd International Workshop on Multimedia Signal Processing (MMSP)}, 
   title={Transformer-based Long-Term Viewport Prediction in 360° Video: Scanpath is All You Need}, 
